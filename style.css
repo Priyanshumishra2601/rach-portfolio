@@ -729,7 +729,7 @@ footer .icons a:hover{
 
 @media screen and (max-width: 420px) {
    .header{
-width: 200%;
+width: 780px;
    }
    .header-content{
     padding-left: 150px;
