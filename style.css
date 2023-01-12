@@ -726,3 +726,58 @@ footer .icons a:hover{
         line-height: 38px;
     }
 }
+
+@media screen and (max-width: 420px) {
+   .header{
+width: 200%;
+   }
+   .header-content{
+    padding-left: 150px;
+    padding-bottom: 70px;
+   }
+   .about{
+    width: 200%;
+    /* height: 890px; */
+    overflow: hidden;
+    padding-left: 10px;
+   }
+   .about .about-content{
+
+   }
+   .text{
+    padding-left: 0px;
+   }
+   .about .about-content .right p {
+   width: 100%;
+}
+.about .about-content .right {
+    justify-content: center;
+}
+.services .max-width{
+width: 550px;
+}
+.services .serv-content{
+    padding-left:0px ;
+}
+#services{
+width: 780px;
+}
+.skills .max-width{
+    width: 600px;
+    height: 600px;
+    padding-left: 150px;
+}
+.projects{
+    width: 780px;
+}
+.contact{
+    width: 780px;
+}
+footer{
+    width: 780px;
+}
+footer span{
+    padding-left: 0px;
+}
+}
+
